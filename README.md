@@ -1,2 +1,0 @@
-# PhotoGram
-Created with CodeSandbox
